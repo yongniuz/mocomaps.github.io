@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["72Q6BRQNFJ.com.ericz.mocomaps"],
+        "components": [{ "/": "/mocomaps-privacy/h/*", "comment": "Hangout invite links" }]
+      }
+    ]
+  }
+}
